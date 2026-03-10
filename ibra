@@ -1,7 +1,5 @@
-git clone https://github.com/TZThon/ZTZ TSCALE
-
-git clone https://ghp_Q55YF6fOJMPdaQB4s4Ypls9jMEeu6c3kg4N@github.com/engibrahimmohamed14-creator/abra.git
-cd TSCALE
+git clone https://$TIBRA@github.com/ibrahim141000/first ibrahim
+cd ibrahim
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt
 python3 -m main.py
