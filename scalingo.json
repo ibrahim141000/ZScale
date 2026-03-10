@@ -1,9 +1,9 @@
 {
-    "name": "𝗭𝗧𝗵𝗼𝗻",
-    "description": "• تنصيب سـورس زدثــون مجاناً علـى منصـة سكـالينجـو • افضـل سـورسـات يـوزربـوت العربيـة",
+    "name": "ibra",
+    "description": "• ibra",
     "addons": ["scalingo-postgresql"],
     "keywords": ["zelzal", "ai", "telegram"],
-    "repository": "https://github.com/TZThon/ZScale",
+    "repository": "https://github.com/ibrahim141000/ZScale",
     "logo": "https://graph.org/file/dc08630c4dc62f59d263b.jpg",
     "stack": "container",
     "env": {
