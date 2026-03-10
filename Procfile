@@ -1,2 +1,2 @@
-web: python -m http.server $PORT
-worker: bash zscale
+web: python -m http.server 8080
+worker: bash ibra
