@@ -1,14 +1,13 @@
 {
-    "name": "ibra",
-    "description": "• ibra",
-    "addons": ["scalingo-postgresql"],
-    "keywords": ["zelzal", "ai", "telegram"],
-    "repository": "https://github.com/ibrahim141000/ZScale",
+    "name": "𝗭𝗧𝗵𝗼𝗻",
+    "description": "• تنصيب سـورس زدثــون مجاناً علـى منصـة سكـالينجـو • افضـل سـورسـات يـوزربـوت العربيـة",
+    "keywords": ["zelzal", "ai","telegram"],
+    "repository": "https://github.com/TZThon/ZScale",
     "logo": "https://graph.org/file/dc08630c4dc62f59d263b.jpg",
     "stack": "container",
     "env": {
         "TIBRA": {
-            "description": "put here",
+            "description": "Environment variable",
             "required": true,
             "value": ""
         }
